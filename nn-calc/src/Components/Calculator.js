@@ -156,7 +156,7 @@ function Calculator() {
           <Typography className={classes.values}>{miliseconds}</Typography>
           &nbsp; miliseconds
         </Typography>
-        <Typography>With your nibba</Typography>
+        <Typography>With your Nibba/Nibbi</Typography>
       </div>
     </div>
   );
